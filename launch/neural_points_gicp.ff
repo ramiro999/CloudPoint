@@ -2,7 +2,7 @@
 --alsologtostderr=true
 --gicp_source_cloud_filename=../cloudpoints/comedor/neural_points_split_1.pcd
 --gicp_target_cloud_filename=../cloudpoints/comedor/neural_points_split_2.pcd
---gicp_aligned_cloud_filename=../cloudpoints/comedor/aligned.pcd
+--gicp_aligned_cloud_filename=../cloudpoints/comedor/neural_points_gicp_aligned.pcd
 --gicp_source_filter_size=0
 --gicp_frame_id=map
 --gicp_transformation_epsilon=0.0005

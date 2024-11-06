@@ -23,3 +23,4 @@
 --ipda_frame_id=map
 --ipda_source_cloud_filename=../cloudpoints/comedor/neural_points_split_1.pcd
 --ipda_target_cloud_filename=../cloudpoints/comedor/neural_points_split_2.pcd
+--ipda_aligned_cloud_filename=../cloudpoints/comedor/neural_points_ipda_aligned.pcd

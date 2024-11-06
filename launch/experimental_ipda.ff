@@ -23,3 +23,4 @@
 --ipda_frame_id=map
 --ipda_source_cloud_filename=../cloudpoints/motala/motala_strip_1.pcd
 --ipda_target_cloud_filename=../cloudpoints/motala/motala_strip_2.pcd
+--pida_aligned_cloud_filename=../cloudpoints/motala/motala_aligned_ipda.pcd
